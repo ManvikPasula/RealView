@@ -6,3 +6,5 @@ The main script that runs all functionalities (depth, guidance, and perception) 
 Each of the subdirectories for each individual functionality contains a collection of scripts that I used when developing that functionality.
 
 These were all run on the NVIDIA Jetson Orin Nano.
+
+https://docs.google.com/presentation/d/1YX8rIgqF1gEA1p3QPGsqj67c8vVhi4gwZWmjeTOfbtE/edit?usp=sharing
